@@ -306,7 +306,6 @@ Sum 1..10 = 55
 ```shell
 cd ~/hello-rust
 ```
-![Image](./Снимок%20экрана%202026-09-25%20112122.png)
 
 1. Инициализация
 ```shell
@@ -352,7 +351,7 @@ git push -u origin main
 - В правой колонке — вкладка `Packages`
 - Там будет пакет `hello-rust`
 
-![Image](./Снимок%20экрана%202026-09-25%20110915.png)
+<img width="1358" height="189" alt="изображение" src="https://github.com/user-attachments/assets/03d22440-39cf-4e9d-ba8a-53e301bc50b5" />
 
 ### 8. Сделать образ публичным
 
