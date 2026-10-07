@@ -290,6 +290,9 @@ Arch: x86_64
 Hello, Docker!
 Sum 1..10 = 55
 ```
+
+<img width="571" height="105" alt="изображение" src="https://github.com/user-attachments/assets/caa2ffa3-f61a-47e3-a5bf-beea8639eb8a" />
+
 В **GitHub Actions** команды `cargo test`, `cargo build` работают напрямую, потому что runner ubuntu-latest уже содержит `Rust toolchain`. Роль «чистого окружения» играет сам раннер (виртуальная машина на **GitHub**)
 
 ### 5. Создание пустого репозитория на GitHub
